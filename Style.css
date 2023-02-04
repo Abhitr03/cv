@@ -1,14 +1,17 @@
 body{
- 
+  background-color: magenta;
 }
 img{
   width: 200px;
   height: 200px;
-  
+  border-width: thick;
+  border-style: solid;
+  border-color: pink;
+  border-radius: 50%,50%;
 }
 h1
 {
-  background-color: rgb(255, 183, 0);
+  background-color: yellow;
   color:black;
   width:250px;
 }
